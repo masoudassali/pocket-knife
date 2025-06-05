@@ -170,7 +170,7 @@
                     </div>
                     <div id="jdOutput" class="bg-stone-50 p-4 rounded-md border border-gray-200 min-h-[200px] overflow-auto whitespace-pre-wrap text-gray-800 leading-relaxed">
                         Your generated job description will appear here.
-                    </div>
+                    C </div>
                 </div>
             </div>
         </section>
@@ -203,11 +203,18 @@
         </div>
     </footer>
 
-    <!-- ElevenLabs Convai Widget -->
+    <!-- Existing ElevenLabs Convai Widget -->
     <!-- This custom HTML tag will embed the Convai AI assistant into the page. -->
     <elevenlabs-convai agent-id="agent_01jwwkb1mbfxkbngc5qzcmw213"></elevenlabs-convai>
     <!-- This script loads the necessary JavaScript to make the Convai widget functional. -->
     <script src="https://unpkg.com/@elevenlabs/convai-widget-embed" async type="text/javascript"></script>
+
+    <!-- NEW ElevenLabs Convai Widget (different use) -->
+    <!-- This widget is for a different purpose/agent. -->
+    <elevenlabs-convai agent-id="agent_01jx0jpm4jfskvhbfftc8m0azy"></elevenlabs-convai>
+    <!-- It reuses the same script for embed functionality -->
+    <script src="https://unpkg.com/@elevenlabs/convai-widget-embed" async type="text/javascript"></script>
+
 
     <script>
         // --- Gemini API Key (Leave empty; Canvas will provide at runtime) ---
