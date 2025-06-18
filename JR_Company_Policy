@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeffrey Recruiting - Company Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-top: 30px;
+            font-size: 1.8em;
+        }
+        h3 {
+            color: #555;
+            margin-top: 20px;
+            font-size: 1.3em;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        .contact-info {
+            background-color: #e9f7ef;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 25px;
+            border-left: 5px solid #28a745;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .website-link {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 1.1em;
+        }
+        .website-link a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .website-link a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Jeffrey Recruiting - Company Policy</h1>
+
+        <h2>Our Core Identity and Mission</h2>
+        <p>At Jeffrey Recruiting, we aim to provide a comprehensive and detailed account of our operations, services, and key information. We are a dedicated placement firm focused on delivering qualified staffing solutions across a broad spectrum of industries throughout the U.S. and Canada. Our fundamental mission is to bridge the gap between high-caliber job candidates and leading companies, ensuring both parties find their ideal match. We are committed to facilitating a recruitment process that is not only effective but also seamless and efficient, leading to successful, long-term placements.</p>
+
+        <h2>Specialized Recruitment Areas</h2>
+        <p>Our expertise spans a diverse range of professional fields. We actively recruit for and place candidates in the following key sectors and positions:</p>
+        <ul>
+            <li><strong>Accounting:</strong> From staff accountants to controllers and finance managers.</li>
+            <li><strong>Marketing:</strong> Including digital marketing specialists, brand managers, and marketing directors.</li>
+            <li><strong>Administrative:</strong> Supporting roles such as executive assistants, office managers, and administrative coordinators.</li>
+            <li><strong>Operations:</strong> Covering operations managers, logistics coordinators, and business analysts.</li>
+            <li><strong>Executive:</strong> High-level placements including C-suite executives and senior leadership roles.</li>
+            <li><strong>Private Equity & Investment Banking:</strong> Specialized roles within financial services.</li>
+            <li><strong>Finance:</strong> Financial analysts, budgeting specialists, and corporate finance roles.</li>
+            <li><strong>Sales:</strong> Sales representatives, account managers, and sales directors.</li>
+            <li><strong>Human Resources:</strong> HR generalists, recruiters, and HR business partners.</li>
+            <li><strong>Technical:</strong> IT professionals, software developers, and technical support roles.</li>
+            <li><strong>Legal:</strong> Paralegals, legal assistants, and various legal support positions.</li>
+        </ul>
+        <p>In addition to these established areas, we pride ourselves on our flexibility. We offer custom search services for highly specialized or niche positions, demonstrating our commitment to meeting unique client requirements. Furthermore, we provide temporary staffing solutions to assist businesses in managing fluctuating workloads, project-based needs, and short-term demands, ensuring operational continuity.</p>
+
+        <h2>Recognition and Reputation</h2>
+        <p>Jeffrey Recruiting has earned a strong reputation for excellence in the recruitment industry. Our commitment to quality service and successful outcomes has been recognized through various awards and a consistent stream of positive testimonials from both our clients and placed candidates. We believe this reflects our ability to deeply understand and cater to the specific needs of all parties involved in the hiring process.</p>
+
+        <h2>Contact and Location Information</h2>
+        <div class="contact-info">
+            <p>You can reach our main office via phone:</p>
+            <p><strong>Phone:</strong> (858) 800-4935</p>
+            <p>We maintain physical presences in key regional centers to better serve our clients and candidates:</p>
+            <ul>
+                <li><strong>San Diego Office:</strong> 701 B Street, Suite 1350, San Diego, CA 92101</li>
+                <li><strong>Orange County Office:</strong> 895 Dove Street, 3rd Floor, Newport Beach, CA 92660</li>
+                <li><strong>Los Angeles Office:</strong> 8383 Wilshire Blvd. Suite 800, Beverly Hills, CA 90211</li>
+            </ul>
+        </div>
+
+        <h2>Information Not Available</h2>
+        <p>Please note that specific details regarding individual team members and staff profiles will not be shared publicly. For inquiries about these aspects, we recommend contacting our offices directly.</p>
+
+        <div class="website-link">
+            <p>For any additional details or to begin a partnership, please visit our official website at <a href="http://jeffreyrecruiting.com" target="_blank">JeffreyRecruiting.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
